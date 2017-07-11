@@ -1,0 +1,20 @@
+{
+  "name": "trainsnp ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "jasmine",
+    "start": "gulp default"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-sass": "^3.1.0",
+    "jasmine": "^2.6.0",
+    "jshint": "^2.9.5"
+  }
+}
